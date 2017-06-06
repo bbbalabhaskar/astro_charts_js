@@ -1,2 +1,2 @@
 # astro_charts_js
-Javascript Library to draw astrology charts
+Javascript library for drawing hindu astrological charts.
