@@ -1,6 +1,9 @@
 # astro_charts_js
 Javascript library for drawing hindu astrological charts.
 
+## Preview
+![alt text](https://raw.githubusercontent.com/bbbalabhaskar/astro_charts_js/master/chart.png)
+
 ## Usage
 
 * impport JS file along with [fabric.js](https://github.com/kangax/fabric.js/) library
