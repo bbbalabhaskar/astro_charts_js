@@ -6,7 +6,7 @@ Javascript library for drawing hindu astrological charts.
 
 ## Usage
 
-* impport JS file along with [fabric.js](https://github.com/kangax/fabric.js/) library
+* import astro_extn.js file along with [fabric.js](https://github.com/kangax/fabric.js/) library
 ```
 <script src="fabric.js" charset="utf-8"></script>
 <script src="astro_extn.js" charset="utf-8"></script>
