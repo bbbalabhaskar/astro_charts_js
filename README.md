@@ -1,4 +1,4 @@
-# astro_charts_js
+# astro_charts_js [example](https://astro-chart-js.firebaseapp.com/)
 Javascript library for drawing hindu astrological charts.
 
 ## Preview
